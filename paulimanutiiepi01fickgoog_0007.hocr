@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./paulimanutiiepi01fickgoog_0007.png"; bbox 0 0 2452 3862; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 414 458 901 558">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 414 458 901 558">
+     <span class='ocr_line' id='line_1_1' title="bbox 414 458 901 558; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 414 458 901 558; x_wconf 83' lang='lat' dir='ltr'><strong>BIBLIOTHEOA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 149 839 1163 941">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 149 839 1163 941">
+     <span class='ocr_line' id='line_1_2' title="bbox 149 839 1163 941; baseline -0.003 -2"><span class='ocrx_word' id='word_1_2' title='bbox 149 840 649 941; x_wconf 80' lang='lat' dir='ltr'>SCRIPTORUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 701 839 1163 938; x_wconf 81' lang='lat' dir='ltr'><strong>LATINORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 372 1219 1094 1298">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 372 1219 1094 1298">
+     <span class='ocr_line' id='line_1_3' title="bbox 372 1219 1094 1298; baseline 0.004 -3"><span class='ocrx_word' id='word_1_4' title='bbox 372 1221 702 1296; x_wconf 79' lang='lat' dir='ltr'>RECENTIORIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 729 1219 937 1296; x_wconf 69' lang='lat' dir='ltr'><strong>AETATIS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1092 1296 1094 1298; x_wconf 77' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 429 1759 881 1834">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 429 1759 881 1834">
+     <span class='ocr_line' id='line_1_4' title="bbox 429 1759 881 1834; baseline 0 -1"><span class='ocrx_word' id='word_1_7' title='bbox 429 1759 706 1834; x_wconf 71' lang='grc' dir='ltr'><strong>«ῙΟΒΕΡΗΠΒ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 731 1764 881 1834; x_wconf 80' lang='lat' dir='ltr'><strong>FREY.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 557 3157 757 3225">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 557 3157 757 3225">
+     <span class='ocr_line' id='line_1_5' title="bbox 557 3157 757 3225; baseline 0 -2"><span class='ocrx_word' id='word_1_9' title='bbox 557 3157 757 3225; x_wconf 81' lang='lat' dir='ltr'>LIPSIAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1230 3862">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1230 3862">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1230 3862; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1230 3862; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
